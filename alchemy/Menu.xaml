@@ -1,0 +1,31 @@
+﻿<Window x:Class="alchemy.Menu"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Menu" Height="476" Width="648" WindowStartupLocation="CenterScreen" ResizeMode="NoResize" Closing="Window_Closing">
+    
+    <Window.Resources>
+        <ControlTemplate x:Key="TextBoxTemplate" TargetType="{x:Type TextBox}">
+            <Grid x:Name="grid">
+                <Image x:Name="bgImage" Source="Resources\button.png" Stretch="Fill"></Image>
+                <ContentPresenter HorizontalAlignment="Left" VerticalAlignment="Center" Content="{TemplateBinding Text}" Margin="{TemplateBinding Padding}"></ContentPresenter>
+            </Grid>
+            <ControlTemplate.Triggers>
+                <Trigger Property="IsMouseOver" Value="True">
+                    <Setter TargetName="bgImage" Property="Source" Value="Resources\button_pressed.png" />
+                </Trigger>
+            </ControlTemplate.Triggers>
+        </ControlTemplate>
+    </Window.Resources>
+    
+    
+    <Canvas>
+        <Image Stretch="Uniform" Width="669" Source="Resources\bg1.jpg" Height="477" Canvas.Left="0" Canvas.Top="-16" />
+        <Image Source="Resources\logo.png" Canvas.Left="-11" Canvas.Top="76" Height="83" Width="391" />
+        
+        <TextBox Name="play" IsReadOnly="True" Template="{StaticResource TextBoxTemplate}" Height="36" Width="220" Foreground="Wheat"  FontFamily="Trajan" FontWeight="SemiBold" FontSize="18" Cursor="Hand" Text="   ИГРА" Canvas.Left="82" Canvas.Top="206" />
+        <TextBox Canvas.Left="82" Canvas.Top="248" Cursor="Hand" FontFamily="Trajan" FontSize="18" FontWeight="SemiBold" Foreground="Wheat" Height="36" IsReadOnly="True" Name="settings" Template="{StaticResource TextBoxTemplate}" Text="   СБРОС ЭЛЕМЕНТОВ" Width="220" />
+        <TextBox Canvas.Left="82" Canvas.Top="290" Cursor="Hand" FontFamily="Trajan" FontSize="18" FontWeight="SemiBold" Foreground="Wheat" Height="36" IsReadOnly="True" Name="leaderbords" Template="{StaticResource TextBoxTemplate}" Text="   ОБ АВТОРЕ" Width="220" />
+        <TextBox Canvas.Left="82" Canvas.Top="332" Cursor="Hand" FontFamily="Trajan" FontSize="18" FontWeight="SemiBold" Foreground="Wheat" Height="36" IsReadOnly="True" Name="exit" Template="{StaticResource TextBoxTemplate}" Text="   ВЫХОД" Width="220" />
+   
+    </Canvas>
+</Window>

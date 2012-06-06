@@ -1,0 +1,150 @@
+C:\Users\KarN\documents\visual studio 2010\Projects\alchemy\alchemy\bin\Release\alchemy.exe
+C:\Users\KarN\documents\visual studio 2010\Projects\alchemy\alchemy\bin\Release\alchemy.pdb
+C:\Users\KarN\documents\visual studio 2010\Projects\alchemy\alchemy\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\KarN\documents\visual studio 2010\Projects\alchemy\alchemy\obj\x86\Release\AlElement.baml
+C:\Users\KarN\documents\visual studio 2010\Projects\alchemy\alchemy\obj\x86\Release\AlElement.g.cs
+C:\Users\KarN\documents\visual studio 2010\Projects\alchemy\alchemy\obj\x86\Release\MainWindow.g.cs
+C:\Users\KarN\documents\visual studio 2010\Projects\alchemy\alchemy\obj\x86\Release\App.g.cs
+C:\Users\KarN\documents\visual studio 2010\Projects\alchemy\alchemy\obj\x86\Release\alchemy_MarkupCompile.cache
+C:\Users\KarN\documents\visual studio 2010\Projects\alchemy\alchemy\obj\x86\Release\alchemy_MarkupCompile.lref
+C:\Users\KarN\documents\visual studio 2010\Projects\alchemy\alchemy\obj\x86\Release\MainWindow.baml
+C:\Users\KarN\documents\visual studio 2010\Projects\alchemy\alchemy\obj\x86\Release\alchemy.g.resources
+C:\Users\KarN\documents\visual studio 2010\Projects\alchemy\alchemy\obj\x86\Release\alchemy.Properties.Resources.resources
+C:\Users\KarN\documents\visual studio 2010\Projects\alchemy\alchemy\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\KarN\documents\visual studio 2010\Projects\alchemy\alchemy\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\KarN\documents\visual studio 2010\Projects\alchemy\alchemy\obj\x86\Release\alchemy.exe
+C:\Users\KarN\documents\visual studio 2010\Projects\alchemy\alchemy\obj\x86\Release\alchemy.pdb
+C:\Users\KarN\documents\visual studio 2010\Projects\alchemy\alchemy\bin\Release\alchemy.exe.config
+C:\Users\KarN\documents\visual studio 2010\Projects\alchemy\alchemy\obj\x86\Release\ResGen.read.1.tlog
+C:\Users\KarN\documents\visual studio 2010\Projects\alchemy\alchemy\obj\x86\Release\ResGen.write.1.tlog
+C:\Users\KarN\documents\visual studio 2010\Projects\alchemy\alchemy\obj\x86\Release\Menu.baml
+C:\Users\KarN\documents\visual studio 2010\Projects\alchemy\alchemy\obj\x86\Release\Menu.g.cs
+C:\Users\KarN\documents\visual studio 2010\Projects\alchemy\alchemy\obj\x86\Release\About.baml
+C:\Users\KarN\documents\visual studio 2010\Projects\alchemy\alchemy\obj\x86\Release\About.g.cs
+G:\Степанов_Алхимия\alchemy\bin\Release\alchemy.exe.config
+G:\Степанов_Алхимия\alchemy\obj\x86\Release\alchemy.exe
+G:\Степанов_Алхимия\alchemy\obj\x86\Release\alchemy.pdb
+G:\Степанов_Алхимия\alchemy\bin\Release\alchemy.exe
+G:\Степанов_Алхимия\alchemy\bin\Release\alchemy.pdb
+G:\Степанов_Алхимия\alchemy\obj\x86\Release\ResolveAssemblyReference.cache
+G:\Степанов_Алхимия\alchemy\obj\x86\Release\About.baml
+G:\Степанов_Алхимия\alchemy\obj\x86\Release\AlElement.baml
+G:\Степанов_Алхимия\alchemy\obj\x86\Release\Menu.baml
+G:\Степанов_Алхимия\alchemy\obj\x86\Release\About.g.cs
+G:\Степанов_Алхимия\alchemy\obj\x86\Release\AlElement.g.cs
+G:\Степанов_Алхимия\alchemy\obj\x86\Release\MainWindow.g.cs
+G:\Степанов_Алхимия\alchemy\obj\x86\Release\Menu.g.cs
+G:\Степанов_Алхимия\alchemy\obj\x86\Release\App.g.cs
+G:\Степанов_Алхимия\alchemy\obj\x86\Release\alchemy_MarkupCompile.cache
+G:\Степанов_Алхимия\alchemy\obj\x86\Release\alchemy_MarkupCompile.lref
+G:\Степанов_Алхимия\alchemy\obj\x86\Release\MainWindow.baml
+G:\Степанов_Алхимия\alchemy\obj\x86\Release\alchemy.g.resources
+G:\Степанов_Алхимия\alchemy\obj\x86\Release\alchemy.Properties.Resources.resources
+G:\Степанов_Алхимия\alchemy\obj\x86\Release\GenerateResource.read.1.tlog
+G:\Степанов_Алхимия\alchemy\obj\x86\Release\GenerateResource-ResGen.read.1.tlog
+G:\Степанов_Алхимия\alchemy\obj\x86\Release\ResGen.read.1.tlog
+G:\Степанов_Алхимия\alchemy\obj\x86\Release\GenerateResource.write.1.tlog
+G:\Степанов_Алхимия\alchemy\obj\x86\Release\GenerateResource-ResGen.write.1.tlog
+G:\Степанов_Алхимия\alchemy\obj\x86\Release\ResGen.write.1.tlog
+C:\Users\User\Documents\Степанов_Алхимия\alchemy\bin\Release\alchemy.exe.config
+C:\Users\User\Documents\Степанов_Алхимия\alchemy\obj\x86\Release\alchemy.exe
+C:\Users\User\Documents\Степанов_Алхимия\alchemy\obj\x86\Release\alchemy.pdb
+C:\Users\User\Documents\Степанов_Алхимия\alchemy\bin\Release\alchemy.exe
+C:\Users\User\Documents\Степанов_Алхимия\alchemy\bin\Release\alchemy.pdb
+C:\Users\User\Documents\Степанов_Алхимия\alchemy\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\User\Documents\Степанов_Алхимия\alchemy\obj\x86\Release\About.baml
+C:\Users\User\Documents\Степанов_Алхимия\alchemy\obj\x86\Release\AlElement.baml
+C:\Users\User\Documents\Степанов_Алхимия\alchemy\obj\x86\Release\Menu.baml
+C:\Users\User\Documents\Степанов_Алхимия\alchemy\obj\x86\Release\About.g.cs
+C:\Users\User\Documents\Степанов_Алхимия\alchemy\obj\x86\Release\AlElement.g.cs
+C:\Users\User\Documents\Степанов_Алхимия\alchemy\obj\x86\Release\MainWindow.g.cs
+C:\Users\User\Documents\Степанов_Алхимия\alchemy\obj\x86\Release\Menu.g.cs
+C:\Users\User\Documents\Степанов_Алхимия\alchemy\obj\x86\Release\App.g.cs
+C:\Users\User\Documents\Степанов_Алхимия\alchemy\obj\x86\Release\alchemy_MarkupCompile.cache
+C:\Users\User\Documents\Степанов_Алхимия\alchemy\obj\x86\Release\alchemy_MarkupCompile.lref
+C:\Users\User\Documents\Степанов_Алхимия\alchemy\obj\x86\Release\MainWindow.baml
+C:\Users\User\Documents\Степанов_Алхимия\alchemy\obj\x86\Release\alchemy.g.resources
+C:\Users\User\Documents\Степанов_Алхимия\alchemy\obj\x86\Release\alchemy.Properties.Resources.resources
+C:\Users\User\Documents\Степанов_Алхимия\alchemy\obj\x86\Release\GenerateResource-ResGen.read.1.tlog
+C:\Users\User\Documents\Степанов_Алхимия\alchemy\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\User\Documents\Степанов_Алхимия\alchemy\obj\x86\Release\ResGen.read.1.tlog
+C:\Users\User\Documents\Степанов_Алхимия\alchemy\obj\x86\Release\GenerateResource-ResGen.write.1.tlog
+C:\Users\User\Documents\Степанов_Алхимия\alchemy\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\User\Documents\Степанов_Алхимия\alchemy\obj\x86\Release\ResGen.write.1.tlog
+I:\Степанов_Алхимия\alchemy\bin\Release\alchemy.exe.config
+I:\Степанов_Алхимия\alchemy\obj\x86\Release\alchemy.exe
+I:\Степанов_Алхимия\alchemy\obj\x86\Release\alchemy.pdb
+I:\Степанов_Алхимия\alchemy\obj\x86\Release\ResolveAssemblyReference.cache
+I:\Степанов_Алхимия\alchemy\obj\x86\Release\About.baml
+I:\Степанов_Алхимия\alchemy\obj\x86\Release\AlElement.baml
+I:\Степанов_Алхимия\alchemy\obj\x86\Release\Menu.baml
+I:\Степанов_Алхимия\alchemy\obj\x86\Release\About.g.cs
+I:\Степанов_Алхимия\alchemy\obj\x86\Release\AlElement.g.cs
+I:\Степанов_Алхимия\alchemy\obj\x86\Release\MainWindow.g.cs
+I:\Степанов_Алхимия\alchemy\obj\x86\Release\Menu.g.cs
+I:\Степанов_Алхимия\alchemy\obj\x86\Release\App.g.cs
+I:\Степанов_Алхимия\alchemy\obj\x86\Release\alchemy_MarkupCompile.cache
+I:\Степанов_Алхимия\alchemy\obj\x86\Release\alchemy_MarkupCompile.lref
+I:\Степанов_Алхимия\alchemy\bin\Release\alchemy.exe
+I:\Степанов_Алхимия\alchemy\bin\Release\alchemy.pdb
+I:\Степанов_Алхимия\alchemy\obj\x86\Release\MainWindow.baml
+I:\Степанов_Алхимия\alchemy\obj\x86\Release\alchemy.g.resources
+I:\Степанов_Алхимия\alchemy\obj\x86\Release\alchemy.Properties.Resources.resources
+I:\Степанов_Алхимия\alchemy\obj\x86\Release\GenerateResource-ResGen.read.1.tlog
+I:\Степанов_Алхимия\alchemy\obj\x86\Release\GenerateResource.read.1.tlog
+I:\Степанов_Алхимия\alchemy\obj\x86\Release\ResGen.read.1.tlog
+I:\Степанов_Алхимия\alchemy\obj\x86\Release\GenerateResource-ResGen.write.1.tlog
+I:\Степанов_Алхимия\alchemy\obj\x86\Release\GenerateResource.write.1.tlog
+I:\Степанов_Алхимия\alchemy\obj\x86\Release\ResGen.write.1.tlog
+F:\Степанов_Алхимия\alchemy\bin\Release\alchemy.exe.config
+F:\Степанов_Алхимия\alchemy\obj\x86\Release\alchemy.exe
+F:\Степанов_Алхимия\alchemy\obj\x86\Release\alchemy.pdb
+F:\Степанов_Алхимия\alchemy\bin\Release\alchemy.exe
+F:\Степанов_Алхимия\alchemy\bin\Release\alchemy.pdb
+F:\Степанов_Алхимия\alchemy\obj\x86\Release\ResolveAssemblyReference.cache
+F:\Степанов_Алхимия\alchemy\obj\x86\Release\About.baml
+F:\Степанов_Алхимия\alchemy\obj\x86\Release\AlElement.baml
+F:\Степанов_Алхимия\alchemy\obj\x86\Release\Menu.baml
+F:\Степанов_Алхимия\alchemy\obj\x86\Release\About.g.cs
+F:\Степанов_Алхимия\alchemy\obj\x86\Release\AlElement.g.cs
+F:\Степанов_Алхимия\alchemy\obj\x86\Release\MainWindow.g.cs
+F:\Степанов_Алхимия\alchemy\obj\x86\Release\Menu.g.cs
+F:\Степанов_Алхимия\alchemy\obj\x86\Release\App.g.cs
+F:\Степанов_Алхимия\alchemy\obj\x86\Release\alchemy_MarkupCompile.cache
+F:\Степанов_Алхимия\alchemy\obj\x86\Release\alchemy_MarkupCompile.lref
+F:\Степанов_Алхимия\alchemy\obj\x86\Release\MainWindow.baml
+F:\Степанов_Алхимия\alchemy\obj\x86\Release\alchemy.g.resources
+F:\Степанов_Алхимия\alchemy\obj\x86\Release\alchemy.Properties.Resources.resources
+F:\Степанов_Алхимия\alchemy\obj\x86\Release\GenerateResource-ResGen.read.1.tlog
+F:\Степанов_Алхимия\alchemy\obj\x86\Release\GenerateResource.read.1.tlog
+F:\Степанов_Алхимия\alchemy\obj\x86\Release\ResGen.read.1.tlog
+F:\Степанов_Алхимия\alchemy\obj\x86\Release\GenerateResource-ResGen.write.1.tlog
+F:\Степанов_Алхимия\alchemy\obj\x86\Release\GenerateResource.write.1.tlog
+F:\Степанов_Алхимия\alchemy\obj\x86\Release\ResGen.write.1.tlog
+F:\Степанов_Алхимия\alchemy\obj\x86\Release\alchemy_Content.g.cs
+H:\Степанов_Алхимия\alchemy\bin\Release\alchemy.exe.config
+H:\Степанов_Алхимия\alchemy\obj\x86\Release\alchemy.exe
+H:\Степанов_Алхимия\alchemy\obj\x86\Release\alchemy.pdb
+H:\Степанов_Алхимия\alchemy\bin\Release\alchemy.exe
+H:\Степанов_Алхимия\alchemy\bin\Release\alchemy.pdb
+H:\Степанов_Алхимия\alchemy\obj\x86\Release\ResolveAssemblyReference.cache
+H:\Степанов_Алхимия\alchemy\obj\x86\Release\About.baml
+H:\Степанов_Алхимия\alchemy\obj\x86\Release\AlElement.baml
+H:\Степанов_Алхимия\alchemy\obj\x86\Release\Menu.baml
+H:\Степанов_Алхимия\alchemy\obj\x86\Release\About.g.cs
+H:\Степанов_Алхимия\alchemy\obj\x86\Release\AlElement.g.cs
+H:\Степанов_Алхимия\alchemy\obj\x86\Release\MainWindow.g.cs
+H:\Степанов_Алхимия\alchemy\obj\x86\Release\Menu.g.cs
+H:\Степанов_Алхимия\alchemy\obj\x86\Release\App.g.cs
+H:\Степанов_Алхимия\alchemy\obj\x86\Release\alchemy_Content.g.cs
+H:\Степанов_Алхимия\alchemy\obj\x86\Release\alchemy_MarkupCompile.cache
+H:\Степанов_Алхимия\alchemy\obj\x86\Release\alchemy_MarkupCompile.lref
+H:\Степанов_Алхимия\alchemy\obj\x86\Release\MainWindow.baml
+H:\Степанов_Алхимия\alchemy\obj\x86\Release\alchemy.g.resources
+H:\Степанов_Алхимия\alchemy\obj\x86\Release\alchemy.Properties.Resources.resources
+H:\Степанов_Алхимия\alchemy\obj\x86\Release\GenerateResource-ResGen.read.1.tlog
+H:\Степанов_Алхимия\alchemy\obj\x86\Release\GenerateResource.read.1.tlog
+H:\Степанов_Алхимия\alchemy\obj\x86\Release\ResGen.read.1.tlog
+H:\Степанов_Алхимия\alchemy\obj\x86\Release\GenerateResource-ResGen.write.1.tlog
+H:\Степанов_Алхимия\alchemy\obj\x86\Release\GenerateResource.write.1.tlog
+H:\Степанов_Алхимия\alchemy\obj\x86\Release\ResGen.write.1.tlog

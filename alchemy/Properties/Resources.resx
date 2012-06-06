@@ -1,0 +1,267 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="id0" xml:space="preserve">
+    <value>земля</value>
+  </data>
+  <data name="id1" xml:space="preserve">
+    <value>огонь</value>
+  </data>
+  <data name="id10" xml:space="preserve">
+    <value>обсидиан</value>
+  </data>
+  <data name="id11" xml:space="preserve">
+    <value>Minecraft</value>
+  </data>
+  <data name="id12" xml:space="preserve">
+    <value>спирт</value>
+  </data>
+  <data name="id13" xml:space="preserve">
+    <value>водка</value>
+  </data>
+  <data name="id14" xml:space="preserve">
+    <value>болото</value>
+  </data>
+  <data name="id15" xml:space="preserve">
+    <value>бактерии</value>
+  </data>
+  <data name="id16" xml:space="preserve">
+    <value>камень</value>
+  </data>
+  <data name="id17" xml:space="preserve">
+    <value>яйцо</value>
+  </data>
+  <data name="id18" xml:space="preserve">
+    <value>курица</value>
+  </data>
+  <data name="id19" xml:space="preserve">
+    <value>МакДональдс</value>
+  </data>
+  <data name="id2" xml:space="preserve">
+    <value>вода</value>
+  </data>
+  <data name="id20" xml:space="preserve">
+    <value>Земля</value>
+  </data>
+  <data name="id21" xml:space="preserve">
+    <value>пыль</value>
+  </data>
+  <data name="id22" xml:space="preserve">
+    <value>динозавр</value>
+  </data>
+  <data name="id23" xml:space="preserve">
+    <value>дракон</value>
+  </data>
+  <data name="id24" xml:space="preserve">
+    <value>зверь</value>
+  </data>
+  <data name="id25" xml:space="preserve">
+    <value>человек</value>
+  </data>
+  <data name="id26" xml:space="preserve">
+    <value>Довакин</value>
+  </data>
+  <data name="id27" xml:space="preserve">
+    <value>песок</value>
+  </data>
+  <data name="id28" xml:space="preserve">
+    <value>голем</value>
+  </data>
+  <data name="id29" xml:space="preserve">
+    <value>труд</value>
+  </data>
+  <data name="id3" xml:space="preserve">
+    <value>воздух</value>
+  </data>
+  <data name="id30" xml:space="preserve">
+    <value>глина</value>
+  </data>
+  <data name="id31" xml:space="preserve">
+    <value>ожирение</value>
+  </data>
+  <data name="id32" xml:space="preserve">
+    <value>алкоголик</value>
+  </data>
+  <data name="id33" xml:space="preserve">
+    <value>секс</value>
+  </data>
+  <data name="id34" xml:space="preserve">
+    <value>инструменты</value>
+  </data>
+  <data name="id35" xml:space="preserve">
+    <value>алмазы</value>
+  </data>
+  <data name="id36" xml:space="preserve">
+    <value>украшения</value>
+  </data>
+  <data name="id37" xml:space="preserve">
+    <value>горы</value>
+  </data>
+  <data name="id38" xml:space="preserve">
+    <value>страна</value>
+  </data>
+  <data name="id39" xml:space="preserve">
+    <value>Россия</value>
+  </data>
+  <data name="id4" xml:space="preserve">
+    <value>лава</value>
+  </data>
+  <data name="id40" xml:space="preserve">
+    <value>Америка</value>
+  </data>
+  <data name="id41" xml:space="preserve">
+    <value>ядерная бомба</value>
+  </data>
+  <data name="id42" xml:space="preserve">
+    <value>дерево</value>
+  </data>
+  <data name="id43" xml:space="preserve">
+    <value>бумага</value>
+  </data>
+  <data name="id44" xml:space="preserve">
+    <value>книги</value>
+  </data>
+  <data name="id45" xml:space="preserve">
+    <value>книжный шкаф</value>
+  </data>
+  <data name="id46" xml:space="preserve">
+    <value>метал</value>
+  </data>
+  <data name="id47" xml:space="preserve">
+    <value>123</value>
+  </data>
+  <data name="id5" xml:space="preserve">
+    <value>энергия</value>
+  </data>
+  <data name="id6" xml:space="preserve">
+    <value>жизнь</value>
+  </data>
+  <data name="id7" xml:space="preserve">
+    <value>пар</value>
+  </data>
+  <data name="id8" xml:space="preserve">
+    <value>трава</value>
+  </data>
+  <data name="id9" xml:space="preserve">
+    <value>1UP</value>
+  </data>
+  <data name="String1" xml:space="preserve">
+    <value />
+  </data>
+</root>
