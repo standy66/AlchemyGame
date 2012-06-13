@@ -148,3 +148,6 @@ H:\Степанов_Алхимия\alchemy\obj\x86\Release\ResGen.read.1.tlog
 H:\Степанов_Алхимия\alchemy\obj\x86\Release\GenerateResource-ResGen.write.1.tlog
 H:\Степанов_Алхимия\alchemy\obj\x86\Release\GenerateResource.write.1.tlog
 H:\Степанов_Алхимия\alchemy\obj\x86\Release\ResGen.write.1.tlog
+C:\Users\KarN\Documents\Visual Studio 2010\Projects\Alchemy\alchemy\obj\x86\Release\alchemy_Content.g.cs
+C:\Users\KarN\Documents\Visual Studio 2010\Projects\Alchemy\alchemy\obj\x86\Release\GenerateResource-ResGen.read.1.tlog
+C:\Users\KarN\Documents\Visual Studio 2010\Projects\Alchemy\alchemy\obj\x86\Release\GenerateResource-ResGen.write.1.tlog
